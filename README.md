@@ -1,16 +1,14 @@
-### Hi there 👋
+# 👋🏿Hi, I'm Adeolu
 
-<!--
-**deeadebayo/deeadebayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer who is trying my best to mix art and creativity with all the fun of the internet™. I really enjoy working with ReactJS, GraphQL, and other technologies in the JAMstack (JavaScript, APIs + Markup). I'd love the opportunity to use these skills to elevate people and build lasting communities.  
+  
+  
+### 💻 Currently working on
+___
+🎓 Getting more full-stack experience at Thinkful 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Get in touch
+___
+- Personal site: https://deeadebayo.com
+- Email: hi(at)deeadebayo.com
