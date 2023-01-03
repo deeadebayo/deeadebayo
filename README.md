@@ -6,8 +6,7 @@ I'm a software engineer who is trying my best™️ to mix art and creativity wi
   
 ### 💻 Currently working on
 ___
-🏢 Front-end job stuff @ Global-E 
-&nbsp; 
+🏢 Front-end job stuff @ Global-E <br>
 🎉 Freelancing on reactjs projects
 
 &nbsp;  
